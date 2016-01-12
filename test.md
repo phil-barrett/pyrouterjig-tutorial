@@ -4,7 +4,7 @@ pyRouterJig is a powerful application that allows you to create templates that a
 ## What is a Template?
 In this context, a template is used to guide the positioning of a LS router fence to allow a cut to be made with a router in a specific location.  Box Joints and Dovetail Joints are easily created using  these templates.
 # Installing and Using pyRouterJig
-Go to the pyRouterJig website (http://lowrie.github.io/pyRouterJig/) and follow the instructions on the “installation” page for your specific computer type. Once it is installed, run the application and you will see the following screen.
+Go to the [pyRouterJig website](http://lowrie.github.io/pyRouterJig/) and follow the instructions on the “installation” page for your specific computer type. Once it is installed, run the application and you will see the following screen.
 <screenshot>
 The default template is for an equally spaced box joint with a 7 ½” x 3/4” board, using a ½” straight bit. 
 Hardware parameters are in the lower left.  You can select a board width, board thickness (bit depth) and bit width.  To make a dovetail template, you specify the bit angle, this should match your dovetail bit. Template parameters are in the lower right. There are 3 tabs: fixed, variable and edit.  

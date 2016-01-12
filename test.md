@@ -3,7 +3,7 @@
 pyRouterJig is a powerful application that allows you to create templates that are compatible with the Incra LS positioner. The Incra LS positioner is essentially a fence control sytem that constrains movements to 1/32" (or 1 mm in the metric version).  By using a template, you can guide the fence to exact and repeatable locations. This in turn allows you to cut box and dovetail joints with a very high degree of preciusion.  These templates will also work with older versions of Incra positioners and the JoinTech IPM
 ## What is a Template?
 In this context, a template is used to guide the positioning of a LS router fence to allow a cut to be made with a router in a specific location.  Box Joints and Dovetail Joints are easily created using  these templates.
-# Installing and Using pyRouterJig
+## Installing and Using pyRouterJig
 Go to the [pyRouterJig website](http://lowrie.github.io/pyRouterJig/) and follow the instructions on the “installation” page for your specific computer type. Once it is installed, run the application and you will see the following screen.
 <figure>
 <a name="figure1"></a>

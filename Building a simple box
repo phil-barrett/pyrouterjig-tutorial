@@ -1,4 +1,4 @@
-Intro
+#Introduction
 You use pyRouterJig to create templates that are compatible with the Incra LS positioner.  These templates will also work with older versions of Incra positioners and the JoinTech IPM
 What is a Template?
 In this context, a template is used to guide the positioning of a router fence to allow a cut to be made with a router in a specific location.  Box Joints and Dovetail Joints are easily created using  these templates.
